@@ -45,7 +45,8 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["SM_Houseplants_01_LOD0","SM_Houseplants_01_LOD1","SM_Houseplants_01_LOD2","SM_Houseplants_01_LOD3"],"padding":[139,140,143,49],"unwrapper":[0,0,0,0]}'
     clipAnimations: []
     isReadable: 0
   meshes:

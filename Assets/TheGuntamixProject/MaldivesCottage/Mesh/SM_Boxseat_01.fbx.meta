@@ -66,7 +66,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties:
-    - '#BAKERY{"meshName":["SM_Boxseat_01_LOD0","SM_Boxseat_01_LOD1","SM_Boxseat_01_LOD2"],"padding":[3,3,3],"unwrapper":[1,1,1]}'
+    - '#BAKERY{"meshName":["SM_Boxseat_01_LOD0","SM_Boxseat_01_LOD1","SM_Boxseat_01_LOD2"],"padding":[5,5,6],"unwrapper":[0,0,0]}'
     clipAnimations: []
     isReadable: 0
   meshes:

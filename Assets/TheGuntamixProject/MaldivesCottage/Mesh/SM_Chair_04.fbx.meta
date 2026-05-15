@@ -45,7 +45,8 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["SM_Chair_04_LOD0","SM_Chair_04_LOD1","SM_Chair_04_LOD2","SM_Chair_04_LOD3"],"padding":[67,67,68,74],"unwrapper":[0,0,0,0]}'
     clipAnimations: []
     isReadable: 0
   meshes:

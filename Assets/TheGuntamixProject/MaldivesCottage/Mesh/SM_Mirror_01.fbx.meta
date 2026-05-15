@@ -45,7 +45,8 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["SM_Mirror_01"],"padding":[96],"unwrapper":[0]}'
     clipAnimations: []
     isReadable: 0
   meshes:

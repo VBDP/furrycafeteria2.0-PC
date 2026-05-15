@@ -51,7 +51,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties:
-    - '#BAKERY{"meshName":["SM_Roof_03_LOD0","SM_Roof_03_LOD1","SM_Roof_03_LOD2","SM_Roof_03_LOD3"],"padding":[2,2,2,2],"unwrapper":[1,1,1,1]}'
+    - '#BAKERY{"meshName":["SM_Roof_03_LOD0","SM_Roof_03_LOD1","SM_Roof_03_LOD2","SM_Roof_03_LOD3"],"padding":[3,3,4,4],"unwrapper":[0,0,0,0]}'
     clipAnimations: []
     isReadable: 0
   meshes:

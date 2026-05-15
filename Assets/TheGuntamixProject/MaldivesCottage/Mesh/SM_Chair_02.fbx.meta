@@ -41,7 +41,7 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties:
-    - '#BAKERY{"meshName":["SM_Chair_02_LOD0","SM_Chair_02_LOD1","SM_Chair_02_LOD2"],"padding":[81,80,81],"unwrapper":[1,1,1]}'
+    - '#BAKERY{"meshName":["SM_Chair_02_LOD0","SM_Chair_02_LOD1","SM_Chair_02_LOD2"],"padding":[135,132,134],"unwrapper":[0,0,0]}'
     clipAnimations: []
     isReadable: 0
   meshes:
