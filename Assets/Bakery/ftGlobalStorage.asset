@@ -866,7 +866,8 @@ MonoBehaviour:
   - Assets/TheGuntamixProject/MaldivesCottage/Mesh/SM_Wall_02.fbx
   - Assets/TheGuntamixProject/MaldivesCottage/Mesh/SM_Roofpillar_02.fbx
   - Assets/TheGuntamixProject/MaldivesCottage/Mesh/SM_Roofpillar_01.fbx
-  uvOverlapAssetList: 00000000ffffffff000000000000000000000000
+  - Assets/Art/FBX/uploads_files_3287069_Chalkboard_Small_Open.fbx
+  uvOverlapAssetList: 00000000ffffffff00000000000000000000000001010000
   xatlasWarningShown: 0
   foundCompatibleSetup: 1
   gpuName_2: NVIDIA GeForce RTX 3060
